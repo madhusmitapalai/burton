@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\pizzaapp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "banner"
+	}
+}
